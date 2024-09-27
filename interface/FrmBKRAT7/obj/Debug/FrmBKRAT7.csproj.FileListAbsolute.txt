@@ -1,0 +1,114 @@
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\FrmBKRAT7.exe.config
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\FrmBKRAT7.exe
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\FrmBKRAT7.pdb
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.Form1.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.Properties.Resources.resources
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.csproj.GenerateResource.cache
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.exe.licenses
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.csproj.CopyComplete
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.exe
+C:\Users\LEGION\Documents\Visual Studio 2022\Projects\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.pdb
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.csproj.AssemblyReference.cache
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.Form1.resources
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.Properties.Resources.resources
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.csproj.GenerateResource.cache
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.exe.licenses
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.csproj.CoreCompileInputs.cache
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.exe
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.pdb
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\FrmBKRAT7.exe.config
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\FrmBKRAT7.exe
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\FrmBKRAT7.pdb
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Data.v21.2.xml
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.csproj.Up2Date
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ZedGraph.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ZedGraph.xml
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\de\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\es\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\fr\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\hu\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\it\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ja\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\pt\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\ru\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\sk\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\sv\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\tr\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\BKRA\SUMMER\FrmBKRAT7\FrmBKRAT7\obj\Debug\FrmBKRAT7.Form2.resources
